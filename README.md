@@ -1,0 +1,1 @@
+EduQuest is an innovative educational platform designed to enhance student engagement through real-time interactivity and intelligent assistance. The key feature of EduQuest is its AI-powered quiz generation system and Student's performance system, which allows teachers to instantly generate quizzes related to the lecture topic.
