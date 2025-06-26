@@ -1,0 +1,20 @@
+/* calendar-custom.css */
+.rbc-month-view {
+    border: 2px solid gray !important;
+  }
+  
+  .rbc-month-row {
+    border-bottom: 2px solid gray !important;
+  }
+  
+  .rbc-day-bg {
+    border-right: 2px solid gray !important;
+  }
+  
+  .rbc-header {
+    border-bottom: 2px solid gray !important;
+  }
+  
+  .rbc-header + .rbc-header {
+    border-left: 2px solid gray !important;
+  }

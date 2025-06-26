@@ -1,0 +1,45 @@
+/* calendar-custom.css */
+.rbc-month-view {
+  border: 2px solid black !important;
+}
+
+.rbc-month-row {
+  border-bottom: 2px solid black !important;
+}
+
+.rbc-day-bg {
+  border-right: 2px solid black !important;
+}
+
+.rbc-header {
+  border-bottom: 2px solid black !important;
+}
+
+.rbc-header + .rbc-header {
+  border-left: 2px solid black !important;
+}
+
+/* Style for toolbar buttons (today, back, next) */
+.rbc-toolbar button {
+  border: 2px solid gray !important;
+  background-color: black;
+  color: white;
+}
+
+/* Optional: Add hover state styling */
+.rbc-toolbar button:hover {
+  background-color: #f0f0f0 !important;
+}
+
+/* For the active state (if any button has active state)
+.rbc-toolbar button.rbc-active {
+  border: 2px solid black !important;
+  background-color: #e0e0e0 !important;
+} */
+
+/* For time view if you're using it
+.rbc-time-view, 
+.rbc-time-header, 
+.rbc-time-header-cell {
+  border: 2px solid black !important;
+} */
